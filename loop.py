@@ -24,4 +24,4 @@ elif movie = "Fast and Furious":
 else:
     print("This is Adult Content")
 for i in range (1,5):
-    priint(i)
+    print(i)
