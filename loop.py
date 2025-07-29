@@ -15,3 +15,11 @@ for item in fruits:
     print(item)
 else:
     print("This is the else block")
+if movie = "Toy Story":
+    print("This is GE approved")
+elif movie = "Kissing Booth":
+    print("This is PG 13 approved")
+elif movie = "Fast and Furious":
+    print("Ths is PG 16 approved")
+else:
+    print("This is Adult Content")
