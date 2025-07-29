@@ -23,3 +23,5 @@ elif movie = "Fast and Furious":
     print("Ths is PG 16 approved")
 else:
     print("This is Adult Content")
+for i in range (1,5):
+    priint(i)
